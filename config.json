@@ -1,0 +1,25 @@
+{
+    "credentials": {
+        "token": ""
+    },
+    "staff": {
+        "admins":  ["335821535828901901", "367290663659765760", "437768376215928832"],
+        "support": []
+    },
+    "public": {
+        "serverId": "747672173073924117",
+        "verifiedRoleId": "985645796533891123"
+    },
+    "prefix": "!",
+    "emojis": {
+        "loading": "<a:ash_loading:985196880327761950>",
+        "loading2": "<a:ash_loading2:985196881439248395>"
+    },
+    "colors": {
+        "red": "#f70c0c",
+        "green": "#32a852"
+    },
+    "economy": {
+        "moneySymbol": "R"
+    }
+}

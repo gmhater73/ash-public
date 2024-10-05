@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "@graphql-tools/schema": "^9.0.12",
+    "better-sqlite3": "^8.5.0",
+    "body-parser": "^1.20.1",
+    "chalk": "^4.1.2",
+    "discord.js": "^14.11.0",
+    "enmap": "^5.8.7",
+    "express": "^4.18.1",
+    "express-graphql": "^0.12.0",
+    "fuzzysort": "^2.0.4",
+    "moment": "^2.29.4",
+    "moment-duration-format": "^2.3.2",
+    "nanoid": "^3.3.4"
+  },
+  "scripts": {
+    "push": "git add . && git commit -m \".\" && git push"
+  }
+}
